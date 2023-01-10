@@ -7,5 +7,5 @@ A python script made to upload files to ftp over TLS
 
 # How to use
 1. Create a secrets.json JSON file
-2. Write the credentials as the credentials_example.json shows
+2. Write the credentials.json file as the credentials_example.json shows
 3. Run the program
